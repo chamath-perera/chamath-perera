@@ -2,7 +2,7 @@
 - <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif?raw=true" width="29px"> I’m interested in Data Visualization & Health Economic Modelling 
 - <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif?raw=true" width="29px"> MSc Health Economics and Decision Modelling @ ScHARR  (University of Sheffield)
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chamath-perera&hide=javascript,css,scss,html&theme=tokyonight)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chamath-perera)
 
 <!---
 chamath-perera/chamath-perera is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
